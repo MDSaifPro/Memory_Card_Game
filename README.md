@@ -1,3 +1,3 @@
-#Code Timeline Generator
+# Code Timeline Generator
 
 - **Convert ur Codes into beautiful timelines**
